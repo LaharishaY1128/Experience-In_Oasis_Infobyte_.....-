@@ -1,0 +1,28 @@
+My OIBSIP Journey with Oasis Infobyte: A Python Programming Experience
+
+As a student, I was eager to gain hands-on experience in programming, and Oasis Infobyte's Internship Program (OIBSIP) provided me with the perfect opportunity. During my internship, I worked on three exciting projects in Python: BMI Calculator, Voice Assistant, and Random Password Generator.
+
+About OIBSIP
+
+OIBSIP is a comprehensive internship program designed for students to gain hands-on experience in their chosen domain. The program is well-structured, and the mentors are highly experienced and supportive.
+
+Project 1: BMI Calculator
+
+For my first project, I developed a BMI Calculator that calculates the Body Mass Index based on user input. I used Python's tkinter library to create a simple GUI for the calculator.
+
+Project 2: Voice Assistant
+
+For my second project, I built a Voice Assistant using Python's SpeechRecognition and pyttsx3 libraries. The voice assistant can perform tasks such as telling the time, searching the web, and providing weather updates.
+
+Project 3: Random Password Generator
+
+For my third project, I created a Random Password Generator that generates strong and unique passwords based on user input. I used Python's random and string libraries to implement the password generator.
+
+What I Learned
+
+Through these projects, I gained hands-on experience in Python programming and developed my skills in GUI development, speech recognition, and password generation. I also learned about the importance of testing, debugging, and version control.
+
+Conclusion
+
+I would like to express my gratitude to Oasis Infobyte for providing me with this incredible opportunity. The OIBSIP program is well-designed, and the mentors are highly supportive. I would highly recommend this program to students who are looking to gain hands-on experience in their chosen domain.
+
